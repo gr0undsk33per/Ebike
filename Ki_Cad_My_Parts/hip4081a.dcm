@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HIP4081A
+D Full Bridge NMOS Gate dirver
+K Gate Driver, H-Bridge
+$ENDCMP
+#
+#End Doc Library
